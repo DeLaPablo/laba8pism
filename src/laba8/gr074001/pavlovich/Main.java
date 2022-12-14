@@ -14,5 +14,8 @@ public class Main {
         stringArray.add("жесткий хавчик");
 
         stringArray.print();
+
+        Zadanie4.summachisel();
+
     }
 }
