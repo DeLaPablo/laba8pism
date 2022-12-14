@@ -11,6 +11,7 @@ public class Main {
         stringArray.add("лошадью");
         stringArray.add("питаЮтся");
         stringArray.add("запиваются");
+        stringArray.add("жесткий хавчик");
 
         stringArray.print();
     }
